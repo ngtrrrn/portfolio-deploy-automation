@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "@mdi/font": "5.0.45",
+    "aws-amplify": "^3.0.18",
+    "aws-amplify-vue": "^2.1.1",
+    "buefy": "^0.8.20",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vuetify": "2.2.18",
