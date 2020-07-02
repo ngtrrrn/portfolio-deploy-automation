@@ -3,7 +3,7 @@
     <v-container>
       <v-row no-gutters>
         <v-col>
-          <div class="display-1 pl-3 pt-3 pb-3 port-title">Portfolio</div>
+          <div class="display-1 pl-3 pt-3 pb-3 port-title">自己紹介</div>
         </v-col>
       </v-row>
       <v-row no-gutters>
